@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tvCamera">Permiso de camara</string>
+    <string name="tvBiometric">Permiso de huella dactilar</string>
+    <string name="btnCheck">Verificar Permisos</string>
+    <string name="btnRequest">Solicitar Permisos</string>
+</resources>
